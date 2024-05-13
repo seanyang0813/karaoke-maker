@@ -7,10 +7,14 @@
 
 Joint work with @kevinjzhang . This is a project to take in any music video and generate a karaoke version for it. The output includes both word level highlighting and countdown for pauses in the middle.
 It uses whisper large v3 to generate the text and create options. Then with some processing, it generates a lot of timestamped texts to be displayed for pymovie clip.
+
 Demo + explanation video: https://youtu.be/2AUswYhcplQ
+
 Demo songs for
 Love story: https://youtu.be/Y09obyya8KI
+
 Karma: https://youtu.be/OWphfiGsipA
+
 Youtube is saying it contains copyright content even it's unlisted so you might have access issue but it seems to be fine in the US
 
 ## project setups/ dependencies
